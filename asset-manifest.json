@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NxtTrendz/static/css/main.18bcb289.css",
+    "main.js": "/NxtTrendz/static/js/main.2b250f2a.js",
+    "index.html": "/NxtTrendz/index.html",
+    "main.18bcb289.css.map": "/NxtTrendz/static/css/main.18bcb289.css.map",
+    "main.2b250f2a.js.map": "/NxtTrendz/static/js/main.2b250f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bcb289.css",
+    "static/js/main.2b250f2a.js"
+  ]
+}
